@@ -4,4 +4,5 @@ My repo to music
 
 ## Pedalboard - Meta
 
-![pedalboard](https://user-images.githubusercontent.com/48387196/164262342-68ea0838-80b4-479f-9bba-c9bd980f83ee.png)
+
+![pedalboard](https://user-images.githubusercontent.com/48387196/164287348-98a212a4-76e0-4da3-9cd0-8c805a05fefb.png)
