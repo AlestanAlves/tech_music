@@ -3,9 +3,9 @@
 
 Music | Tom | Intro | Verse | Build | Chronus |BPM
 :--------- | :------: | -------:  |  -------: |  -------: |  -------: |  -------: |
-Relentless Remix | 100% | 100%  | 100%  | 100%  | 100%  | Valor 
+Relentless Remix |  | 100%  | 100%  | 100%  | 100%  | Valor 
 Never Walk Alone |      |       |   |   100%    |       |
-As You Find Me  |      |       |   |      |       |
+As You Find Me  |      |       | 100%  |      |       |
 
 https://hillsongchords.de/app/?set=604&stp=false&setview=true&style=original&mtp=0
 
