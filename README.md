@@ -11,5 +11,3 @@ My repo to music
 ![metapedal2](https://user-images.githubusercontent.com/48387196/164872728-88fa33ab-df20-4b16-8979-74063580ac29.png)
 
 ![metapedal](https://user-images.githubusercontent.com/48387196/164869382-c83f291a-f2d2-4cbd-863d-29716e11d227.png)
-
-
